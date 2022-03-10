@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.0.0"
+  },
+  "fitbit": {
+    "appUUID": "153a9609-40f7-47d1-a3af-28c6cf6e830f",
+    "appType": "clockface",
+    "appDisplayName": "clock-face-example",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "clock-face-example"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
